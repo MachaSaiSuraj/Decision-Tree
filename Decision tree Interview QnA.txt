@@ -1,0 +1,9 @@
+-----------------Interview Question Answers------------------------
+
+1. What are some common hyperparameters of decision tree models, and how do they affect the model's performance?
+
+Ans:  Some common hyperparameters are max_depth, which controls how deep the tree can grow and helps prevent overfitting, and min_samples_leaf, which sets the minimum number of samples required to be at a leaf node and smooths the model.
+
+2. What is the difference between the Label encoding and One-hot encoding?
+
+Ans:  Label encoding converts each unique category into a single integer, while one-hot encoding creates a new binary column for each unique category, with a 1 indicating its presence and a 0 for its absence.
